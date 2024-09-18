@@ -60,7 +60,7 @@
 
     gap: 0.5rem;
 
-    transition: color 0.1s, backgroud-color 0.1s;
+    transition: backgroud-color 0.1s;
 
 }
 
